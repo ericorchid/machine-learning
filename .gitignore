@@ -1,4 +1,6 @@
 # data files, learning materials
+*.csv
+*.txt
 *.pdf
 *.doc
 *.ppt
