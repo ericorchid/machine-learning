@@ -1,3 +1,14 @@
+# data files, learning materials
+*.pdf
+*.doc
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.zip
+*.tar
+*.rar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
